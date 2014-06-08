@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 framework/*
 protected/config/*
+=======
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/
+>>>>>>> f22e5318ddf105c513418c75e2ca4876f38d61f4
